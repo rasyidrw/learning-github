@@ -1,4 +1,4 @@
-# learning-github-no-kaleng2
+learn github
 <<<<<<< HEAD
 adsf
 ad
